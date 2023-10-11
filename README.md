@@ -2,7 +2,7 @@
 
 ### Machine Dreams
 
-(Text)[http://bach.ai/machine-dreams/]
+[Text](http://bach.ai/machine-dreams/)
 
 Excerpt
 
