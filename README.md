@@ -28,8 +28,8 @@ Excerpt
 
 ### Quantum Chaos, Billard Dynamics of Wave Functions
 
-![quantum-chaos](qcphase.webp)
 [Video on YouTube](https://www.youtube.com/watch?v=ADeohqd7qfg)
+
 [Companion Blog Post](https://galileo-unbound.blog/2022/08/14/quantum-chaos-and-the-cheshire-cat/)
 
 Excerpt from blog
@@ -37,3 +37,5 @@ Excerpt from blog
 > When classical Hamiltonian systems become chaotic, they don’t do it suddenly.  Almost all transitions to chaos in Hamiltonian systems are gradual.  One of the best examples of this is the KAM theory that starts with invariant action integrals that generate invariant tori in phase space.  As nonintegrable perturbations increase, the tori break up slowly into island chains of stability as chaos infiltrates the separatrixes—first as thin filaments of chaos surrounding the islands—then growing in width to take up more and more of phase space.  Even when chaos is fully developed, small islands of stability can remain—the remnants of stable orbits of the unperturbed system.
 >
 > When the classical becomes quantum, chaos softens.  Quantum wave functions don’t like to be confined—they spread and they tunnel.  The separatrix of classical chaos—that barrier between regions of phase space—cannot constrain the exponential tails of wave functions.  And the origin of chaos itself—the homoclinic point of the separatrix—gets washed out.  Then the regular orbits of the classical system reassert themselves, and they appear, like the vestige of the Cheshire Cat, as a grin.
+>
+> ![quantum-chaos](qcphase.webp)
