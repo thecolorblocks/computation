@@ -39,3 +39,12 @@ Excerpt from blog
 > When the classical becomes quantum, chaos softens.  Quantum wave functions don’t like to be confined—they spread and they tunnel.  The separatrix of classical chaos—that barrier between regions of phase space—cannot constrain the exponential tails of wave functions.  And the origin of chaos itself—the homoclinic point of the separatrix—gets washed out.  Then the regular orbits of the classical system reassert themselves, and they appear, like the vestige of the Cheshire Cat, as a grin.
 >
 > ![quantum-chaos](qcphase.webp)
+
+
+### The Philosophical and Scientific Metaphysics of David Bohm
+
+[Open Access article](https://www.mdpi.com/1099-4300/20/7/493) by William Seager
+
+Excerpt
+
+> Although David Bohm’s interpretation of quantum mechanics is sometimes thought to be a kind of regression towards classical thinking, it is in fact an extremely radical metaphysics of nature. The view goes far beyond the familiar but perennially peculiar non-locality and entanglement of quantum systems. In this paper, a philosophical exploration, I examine three core features of Bohm’s metaphysical views, which have been both supported by features of quantum mechanics and integrated into a comprehensive system. These are the holistic nature of the world, the role of a unique kind of information as the ontological basis of the world, and the integration of mentality into this basis as an essential and irreducible aspect of it.
