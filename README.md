@@ -1,4 +1,4 @@
-# computation
+# Computation
 
 ### Machine Dreams
 
