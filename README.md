@@ -19,5 +19,7 @@ Excerpt
 Excerpt
 
 > Yesterday I was having some fun trying to look for some patterns in primes; and I think I found something interesting. The idea is to start with an array of primes {p1, p2, p3, ... }, print it, then set the value at index i = abs( [i] - [i-1] ) or put more formally, set the value at i equal to the "prime gap"; then repeat this, but use the prime gaps and find their gaps. And so on.
+> 
 > You can see at the top row we start with the primes, then their gaps, then their gaps, and so on. It starts to produce that triangle pattern
-> ![prime-serpinski]()
+> 
+> ![prime-serpinski](OUMEV.png)
