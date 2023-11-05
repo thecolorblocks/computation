@@ -12,6 +12,7 @@ Excerpt
 > 
 > This is the proposed fourth installment of a series of presentations about using AI perspectives to understand minds and their relationship to the universe. “How to build a mind” (30c3) suggested specifications for an architecture of cognition; “From computation to consciousness” (31c3) explored the mind’s computational foundations; “Computational metapsychology” (32c3) discussed the individual and social construction of meaning. “Machine dreams” sketches how the computational machinery of our brains leads to our experience a subjective world. We will look at the conductor theory of consciousness, some of the mental structures contributing to our models of self and world, and the unreasonable effectiveness of neural processes in modeling physics.
 
+
 ### Prime Numbers and Fractals (Serpinski Triangle)
 
 [Math Stacks Exchange](https://math.stackexchange.com/questions/371434/has-anyone-found-a-pattern-in-prime-numbers)
@@ -24,8 +25,10 @@ Excerpt
 > 
 > ![prime-serpinski](OUMEV.png)
 
+
 ### Quantum Chaos, Billard Dynamics of Wave Functions
 
+![quantum-chaos](qcphase.webp)
 [Video on YouTube](https://www.youtube.com/watch?v=ADeohqd7qfg)
 [Companion Blog Post](https://galileo-unbound.blog/2022/08/14/quantum-chaos-and-the-cheshire-cat/)
 
