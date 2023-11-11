@@ -60,11 +60,11 @@ Excerpt
 >
 > ![function1]()
 >
-> Given a fixed value of K, Ω, {\displaystyle \theta _{n}} and ε, the recurrence time N is given by the smallest integer N such that
+> Given a fixed value of K, Ω, θₙ and ε, the recurrence time N is given by the smallest integer N such that
 >
 > ![function2]()
 >
-> is satisfied. This figure shows the average values of N for a variety of random starting values {\displaystyle \theta _{n}}, and an ε = 0.0001. Black indicates values of N of less than about 10, blue values of about 50, green shows values of about 140 and red shows values greater than 250.
+> is satisfied. This figure shows the average values of N for a variety of random starting values θₙ, and an ε = 0.0001. Black indicates values of N of less than about 10, blue values of about 50, green shows values of about 140 and red shows values greater than 250.
 >
 > The frequency Ω runs from 0 to 1 along the horizontal axis, and the coupling constant K runs from 0 at the bottom to 4π at the top of the image. The upper limit of the red area at the bottom occurs at K=1.
 >
