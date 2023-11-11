@@ -58,12 +58,11 @@ Excerpt
 
 > The circle map is a chaotic map showing a number of interesting chaotic behaviors. This figure shows the average Poincaré recurrence time for the iterated circle map modulo 1. The circle map is given by iterating on the map
 >
-> ![function1](circle_map_function1.svg)
 > $${\displaystyle \theta _{n+1}=\theta _{n}+\Omega -{\frac {K}{2\pi }}\sin(2\pi \theta _{n})}$$
 >
 > Given a fixed value of K, Ω, θₙ and ε, the recurrence time N is given by the smallest integer N such that
 >
-> ![function2](circle_map_function2.svg)
+> $${\displaystyle |(\theta _{n+N}-\theta _{n})|&lt;\epsilon \!}$$
 >
 > is satisfied. This figure shows the average values of N for a variety of random starting values θₙ, and an ε = 0.0001. Black indicates values of N of less than about 10, blue values of about 50, green shows values of about 140 and red shows values greater than 250.
 >
