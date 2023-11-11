@@ -48,3 +48,24 @@ Excerpt from blog
 Excerpt
 
 > Although David Bohm’s interpretation of quantum mechanics is sometimes thought to be a kind of regression towards classical thinking, it is in fact an extremely radical metaphysics of nature. The view goes far beyond the familiar but perennially peculiar non-locality and entanglement of quantum systems. In this paper, a philosophical exploration, I examine three core features of Bohm’s metaphysical views, which have been both supported by features of quantum mechanics and integrated into a comprehensive system. These are the holistic nature of the world, the role of a unique kind of information as the ontological basis of the world, and the integration of mentality into this basis as an essential and irreducible aspect of it.
+
+
+### Circle Map and Poincare Disk
+
+[Wikipedia explanation with images](https://en.wikipedia.org/wiki/File:Circle_map_poincare_recurrence.jpeg)
+
+Excerpt
+
+> The circle map is a chaotic map showing a number of interesting chaotic behaviors. This figure shows the average Poincaré recurrence time for the iterated circle map modulo 1. The circle map is given by iterating on the map
+>
+> ![function1]()
+>
+> Given a fixed value of K, Ω, {\displaystyle \theta _{n}} and ε, the recurrence time N is given by the smallest integer N such that
+>
+> ![function2]()
+>
+> is satisfied. This figure shows the average values of N for a variety of random starting values {\displaystyle \theta _{n}}, and an ε = 0.0001. Black indicates values of N of less than about 10, blue values of about 50, green shows values of about 140 and red shows values greater than 250.
+>
+> The frequency Ω runs from 0 to 1 along the horizontal axis, and the coupling constant K runs from 0 at the bottom to 4π at the top of the image. The upper limit of the red area at the bottom occurs at K=1.
+>
+> ![themap]()
