@@ -76,3 +76,8 @@ Excerpt
 ### Cymatics
 
 [YouTube video](https://www.youtube.com/watch?v=bxV0FrFMxUY)
+
+
+### Quantum Mechanics, Chaos, and Periodic Orbits
+
+[YouTube](https://www.youtube.com/watch?v=BMztKvuI-9w)
