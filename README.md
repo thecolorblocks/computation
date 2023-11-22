@@ -86,3 +86,14 @@ Excerpt
 ### Modular Arithmetic and Chaos: Secure Communication
 
 [Paper](https://www.researchgate.net/publication/296000313_Modular_arithmetic_and_synchronized_chaos)
+
+
+### Active Matter
+
+[Website](https://physicsworld.com/a/active-matter-goes-chaotic/)
+
+Excerpt
+
+> Topological defects in the structure of materials known as active nematics can act as rods that mix the fluids – much like one might mix colours in white paint. This is the new finding from researchers at the University of California, Merced, who say that the mixing is a result of sliding on a molecular scale. The work, which has applied chaotic advection to the emerging field of active matter for the first time, could help advance our fundamental understanding of how defects move collectively in liquid crystals.
+> 
+> Nature abounds with examples of active matter, with some well-known examples being flocks of birds, fish and insects, sheets of biological cells and swarms of bacteria. Researchers have been trying to make biomimetic and synthetic active materials in the laboratory from materials such as self-propelled colloids and dense phases of mechanically driven biopolymers. Needless to say, they would like to better understand the fundamental physics of these systems.
