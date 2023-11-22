@@ -81,3 +81,8 @@ Excerpt
 ### Quantum Mechanics, Chaos, and Periodic Orbits
 
 [YouTube](https://www.youtube.com/watch?v=BMztKvuI-9w)
+
+
+### Modular Arithmetic and Chaos: Secure Communication
+
+[Paper](https://www.researchgate.net/publication/296000313_Modular_arithmetic_and_synchronized_chaos)
