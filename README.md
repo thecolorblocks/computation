@@ -112,3 +112,8 @@ Introduction
 Abstract
 
 > Dispersal of microbes between humans and the built environment can occur through direct contact with surfaces or through airborne release; the latter mechanism remains poorly understood. Humans emit upwards of 10⁶ biological particles per hour, and have long been known to transmit pathogens to other individuals and to indoor surfaces. However it has not previously been demonstrated that humans emit a detectible microbial cloud into surrounding indoor air, nor whether such clouds are sufficiently differentiated to allow the identification of individual occupants. We used high-throughput sequencing of 16S rRNA genes to characterize the airborne bacterial contribution of a single person sitting in a sanitized custom experimental climate chamber. We compared that to air sampled in an adjacent, identical, unoccupied chamber, as well as to supply and exhaust air sources. Additionally, we assessed microbial communities in settled particles surrounding each occupant, to investigate the potential long-term fate of airborne microbial emissions. Most occupants could be clearly detected by their airborne bacterial emissions, as well as their contribution to settled particles, within 1.5–4 h. Bacterial clouds from the occupants were statistically distinct, allowing the identification of some individual occupants. Our results confirm that an occupied space is microbially distinct from an unoccupied one, and demonstrate for the first time that individuals release their own personalized microbial cloud.
+
+
+### Imcompleteness theorem and Prime numbers
+
+[Quanta article explanation](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
