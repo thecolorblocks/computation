@@ -117,3 +117,13 @@ Abstract
 ### Imcompleteness theorem and Prime numbers
 
 [Quanta article explanation](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+
+
+### Swarm decision-making
+
+[2010 Research](http://www2.ece.ohio-state.edu/~passino/PapersToPost/GrpDecMakHoneyBees-AmSci.pdf)
+
+Conclusion (summary):
+1. Diversity of knowledge. Bees gather information regardless of its quality, and bring back information for collective evaluation.
+2. No comformity / independent evaluation. Each bee will verify the site's suitability and dance to the true extent of its suitability to advertise said site.
+3. Allows balanced behaviors to emerge (a long qorum-sensing process that eliminates edge and extreme opinions)
