@@ -127,3 +127,8 @@ Conclusion (summary):
 1. Diversity of knowledge. Bees gather information regardless of its quality, and bring back information for collective evaluation.
 2. No comformity / independent evaluation. Each bee will verify the site's suitability and dance to the true extent of its suitability to advertise said site.
 3. Allows balanced behaviors to emerge (a long qorum-sensing process that eliminates edge and extreme opinions)
+
+
+### Computational neuroplasticity
+
+A somewhat dated [Literature review](https://www.sciencedirect.com/science/article/abs/pii/S0303264714000446)
