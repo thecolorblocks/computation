@@ -132,3 +132,8 @@ Conclusion (summary):
 ### Computational neuroplasticity
 
 A somewhat dated [Literature review](https://www.sciencedirect.com/science/article/abs/pii/S0303264714000446)
+
+
+### Cell self-organization programming
+
+Somewhat recent [study](https://www.science.org/doi/10.1126/science.aat0271) detailing the programming
