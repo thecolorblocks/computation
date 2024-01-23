@@ -137,3 +137,8 @@ A somewhat dated [Literature review](https://www.sciencedirect.com/science/artic
 ### Cell self-organization programming
 
 Somewhat recent [study](https://www.science.org/doi/10.1126/science.aat0271) detailing the programming
+
+
+### Fireflies syncrhonized flashing
+
+Newest study with working mathematical model: [link](https://elifesciences.org/articles/78908.pdf)
