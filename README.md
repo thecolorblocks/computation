@@ -142,3 +142,7 @@ Somewhat recent [study](https://www.science.org/doi/10.1126/science.aat0271) det
 ### Fireflies syncrhonized flashing
 
 Newest study with working mathematical model: [link](https://elifesciences.org/articles/78908.pdf)
+
+Abstract
+
+> In isolation from their peers, Photinus carolinus fireflies flash with no intrinsic period between succes13 sive bursts. Yet, when congregating into large mating swarms, these fireflies transition into predictabil14 ity, synchronizing with their neighbors with a rhythmic periodicity. Here we propose a mechanism for emergence of synchrony and periodicity, and formulate the principle in a mathematical framework. Re16 markably, with no fitting parameters, analytic predictions from this simple principle and framework agree strikingly well with data. Next, we add further sophistication to the framework using a computational approach featuring groups of random oscillators via integrate-and-fire interactions controlled by tunable parameter. This agent-based framework of P. carolinus fireflies interacting in swarms of increasing density also shows quantitatively similar phenomenology and reduces to the analytic framework in the appropriate limit of the tunable coupling strength. We discuss our findings and note that the resulting dynamics follow the style of a decentralized follow-the-leader synchronization, where any of the randomly flashing individuals may take the role of the leader of any subsequent synchronized flash burst.
