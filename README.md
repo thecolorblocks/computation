@@ -146,3 +146,12 @@ Newest study with working mathematical model: [link](https://elifesciences.org/a
 Abstract
 
 > In isolation from their peers, Photinus carolinus fireflies flash with no intrinsic period between succes13 sive bursts. Yet, when congregating into large mating swarms, these fireflies transition into predictabil14 ity, synchronizing with their neighbors with a rhythmic periodicity. Here we propose a mechanism for emergence of synchrony and periodicity, and formulate the principle in a mathematical framework. Re16 markably, with no fitting parameters, analytic predictions from this simple principle and framework agree strikingly well with data. Next, we add further sophistication to the framework using a computational approach featuring groups of random oscillators via integrate-and-fire interactions controlled by tunable parameter. This agent-based framework of P. carolinus fireflies interacting in swarms of increasing density also shows quantitatively similar phenomenology and reduces to the analytic framework in the appropriate limit of the tunable coupling strength. We discuss our findings and note that the resulting dynamics follow the style of a decentralized follow-the-leader synchronization, where any of the randomly flashing individuals may take the role of the leader of any subsequent synchronized flash burst.
+
+
+### Authoritative book on biological self-organizing systems
+
+[Self-Organization in Biological Systems](https://press.princeton.edu/books/paperback/9780691116242/self-organization-in-biological-systems)
+
+Intro
+
+> The synchronized flashing of fireflies at night. The spiraling patterns of an aggregating slime mold. The anastomosing network of army-ant trails. The coordinated movements of a school of fish. Researchers are finding in such patterns — phenomena that have fascinated naturalists for centuries — a fertile new approach to understanding biological systems: the study of self-organization. This book, a primer on self-organization in biological systems for students and other enthusiasts, introduces readers to the basic concepts and tools for studying self-organization and then examines numerous examples of self-organization in the natural world.
