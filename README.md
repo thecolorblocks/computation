@@ -155,3 +155,8 @@ Abstract
 Intro
 
 > The synchronized flashing of fireflies at night. The spiraling patterns of an aggregating slime mold. The anastomosing network of army-ant trails. The coordinated movements of a school of fish. Researchers are finding in such patterns — phenomena that have fascinated naturalists for centuries — a fertile new approach to understanding biological systems: the study of self-organization. This book, a primer on self-organization in biological systems for students and other enthusiasts, introduces readers to the basic concepts and tools for studying self-organization and then examines numerous examples of self-organization in the natural world.
+
+
+### Intransitive competition
+
+[Intransitivity as a dynamic assembly engine of competitive communities](https://www.pnas.org/doi/10.1073/pnas.2217372120)
