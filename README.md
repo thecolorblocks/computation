@@ -160,3 +160,8 @@ Intro
 ### Intransitive competition
 
 [Intransitivity as a dynamic assembly engine of competitive communities](https://www.pnas.org/doi/10.1073/pnas.2217372120)
+
+
+### Caustic Waves simulations
+
+[Physics Unbound article](https://galileo-unbound.blog/2021/02/28/casual-caustics-and-the-optics-of-rays/)
