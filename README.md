@@ -165,3 +165,7 @@ Intro
 ### Caustic Waves simulations
 
 [Physics Unbound article](https://galileo-unbound.blog/2021/02/28/casual-caustics-and-the-optics-of-rays/)
+
+### Algorithmic Botany publications
+
+[website](http://algorithmicbotany.org/papers/)
