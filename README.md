@@ -169,3 +169,8 @@ Intro
 ### Algorithmic Botany publications
 
 [website](http://algorithmicbotany.org/papers/)
+
+
+### Space colonization algorithm and robust simulation of crowd dynamics
+
+[research](https://www.sciencedirect.com/science/article/abs/pii/S0097849311001713?via%3Dihub)
